@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey 👋
 
-<!--
-**RienBijl/RienBijl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am *Rien*, *19 years old* and I am a backend developer most commonly programming in *PHP and Java*. I am from :netherlands: *the Netherlands* and I live in the town of Ter Apel.
 
-Here are some ideas to get you started:
+### Social Media and contact
+- Twitter: [@savedbythebijl](https://twitter.com/savedbythebijl)
+- Email: [me@rienbijl.nl](mailto:me@rienbijl.nl)
+- Discord: [Rien#0499](https://discordapp.com/users/Rien#0499)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open source
+I make open source contributions! Feel free to contribute.
+- [Scoreboard-revision](https://github.com/RienBijl/Scoreboard-revision) A Minecraft plugin that provides smooth Scoreboard animations.
+
+### Glybe
+Are you Dutch and into programming? Visit the forum I maintain with @basmilius. [Click here to head over to Glybe!](https://glybe.nl)
