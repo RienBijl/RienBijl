@@ -12,4 +12,4 @@ I make open source contributions! Feel free to contribute.
 - [Scoreboard-revision](https://github.com/RienBijl/Scoreboard-revision) A Minecraft plugin that provides smooth Scoreboard animations.
 
 ### Glybe
-Are you Dutch and into programming? Visit the forum I maintain with @basmilius. [Click here to head over to Glybe!](https://glybe.nl)
+Are you Dutch and into programming? Visit the forum I maintain with [@basmilius](https://github.com/BasMilius). [Click here to head over to Glybe!](https://glybe.nl)
