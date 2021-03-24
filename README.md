@@ -2,12 +2,12 @@
 
 I am *Rien*, *19 years old* and I am a backend developer most commonly programming in *PHP and Java*. I am from :netherlands: *the Netherlands* and I live in the town of Ter Apel.
 
-### Social Media and contact
+### Social Media and Contact
 - Twitter: [@savedbythebijl](https://twitter.com/savedbythebijl)
 - Email: [me@rienbijl.nl](mailto:me@rienbijl.nl)
 - Discord: [Rien#0499](https://discordapp.com/users/Rien#0499)
 
-### Open source
+### Open Source
 I make open source contributions! Feel free to contribute.
 - [Scoreboard-revision](https://github.com/RienBijl/Scoreboard-revision) A Minecraft plugin that provides smooth Scoreboard animations.
 
