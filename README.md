@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I am *Rien*, *19 years old* and I am a backend developer most commonly programming in *PHP and Java*. I am from :netherlands: *the Netherlands* and I live in the town of Ter Apel.
+I am *Rien*, *19 years old* and I am a backend developer most commonly programming in *PHP and Java*. I am from *the Netherlands* and I live in the town of Ter Apel.
 
 ### Social Media and Contact
 - Twitter: [@savedbythebijl](https://twitter.com/savedbythebijl)
