@@ -1,15 +1,16 @@
 ## Hey 👋
 
-I am *Rien*, *19 years old* and I am a backend developer most commonly programming in *PHP and Java*. I am from *the Netherlands* and I live in the town of Ter Apel.
+I am *Rien*, *23 years old* and I am a backend developer. I am from *the Netherlands* and I live in the town of Coevorden. Most of the time I work with:
+- PHP
+- JS
+- Dart
 
 ### Social Media and Contact
 - Twitter: [@savedbythebijl](https://twitter.com/savedbythebijl)
-- Email: [me@rienbijl.nl](mailto:me@rienbijl.nl)
-- Discord: [Rien#0499](https://discordapp.com/users/Rien#0499)
+- Email: [post@rienbijl.nl](mailto:post@rienbijl.nl)
+
+### Career
+I'm a programmer for a financial services provider focussing on the catering industry creating innovative and dependable payment solutions and an event ticketing platform.
 
 ### Open Source
-I make open source contributions! Feel free to contribute.
-- [Scoreboard-revision](https://github.com/RienBijl/Scoreboard-revision) A Minecraft plugin that provides smooth Scoreboard animations.
-
-### Glybe
-Are you Dutch and into programming? Also check out -> [@basmilius](https://github.com/BasMilius). And check this [Click here to head over to Glybe!](https://glybe.nl)
+I currently don't maintain any open source projects.
